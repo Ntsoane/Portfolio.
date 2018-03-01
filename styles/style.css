@@ -4,7 +4,7 @@
   --accent-color:#BC8034;
   --bg-color:#d9CAB3;
   --shadow-color: #8c7A6B;
-background-image: url("/home/hotel/PROJECTS/POrtFolio2/images/blue.jpg");
+background-image: url("../images/blue.jpg");
 
   font-family: monospace;
   box-sizing: border-box;
@@ -18,7 +18,7 @@ body{
 }
 /*nav.css*/
 nav {
-background-image: url("/home/hotel/PROJECTS/POrtFolio2/images/qwer.jpg");
+background-image: url("../images/qwer.jpg");
   color: black;
   text-transform: capitalize;
   position: fixed;
@@ -30,7 +30,7 @@ nav ul{
   margin: 0;
   display: flex;
   width: 100%;
-background-image: url("/home/hotel/PROJECTS/POrtFolio2/images/qwer.jpg");
+background-image: url("../images/qwer.jpg");
 
   color: black;
 }
@@ -60,7 +60,7 @@ img{
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 header{
-background-image: url("/home/hotel/PROJECTS/POrtFolio2/images/background2.jpg");
+background-image: url("../images/background2.jpg");
   display: flex;
   height: 100vh;
   /* background: radial-gradient(#e66465, #9198e5); */
@@ -175,7 +175,7 @@ input[type=text],select,textarea{
 }
 
 footer{
-background-image: url("/home/hotel/PROJECTS/POrtFolio2/images/qwer.jpg");
+background-image: url("../images/qwer.jpg");
   text-align:center;
   padding: auto;
 }
